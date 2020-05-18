@@ -31,7 +31,7 @@
               <tr>
                 <th scope="col"></th>
                 <th scope="col">id</th>
-                <th scope="col">氏名</th>
+                <th scope="col">氏名でし</th>
                 <th scope="col">件名</th>
                 <th scope="col">登録日</th>
                 <th scope="col">詳細</th>
